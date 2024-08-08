@@ -5,4 +5,3 @@ Frontend interface designed using React, Redux, Axios, React Bootstrap and backe
 Django rest framework with PostgreSQL as database, and deployed on Heroku.
 
 
-## Link to Web App- https://atoztechstore.herokuapp.com/ 
